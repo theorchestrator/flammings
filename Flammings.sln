@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flammings", "WindowsGame1\WindowsGame1\Flammings.csproj", "{5821BFC0-004B-4097-B352-D0C2509ACB33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlammingsContent", "WindowsGame1\WindowsGame1Content\FlammingsContent.contentproj", "{3B4C11E3-9D98-4FBA-A683-C6084433884E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5821BFC0-004B-4097-B352-D0C2509ACB33}.Debug|x86.ActiveCfg = Debug|x86
+		{5821BFC0-004B-4097-B352-D0C2509ACB33}.Debug|x86.Build.0 = Debug|x86
+		{5821BFC0-004B-4097-B352-D0C2509ACB33}.Release|x86.ActiveCfg = Release|x86
+		{5821BFC0-004B-4097-B352-D0C2509ACB33}.Release|x86.Build.0 = Release|x86
+		{3B4C11E3-9D98-4FBA-A683-C6084433884E}.Debug|x86.ActiveCfg = Debug|x86
+		{3B4C11E3-9D98-4FBA-A683-C6084433884E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
